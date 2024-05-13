@@ -21,7 +21,9 @@ Crea un array vuoto. Chiedi per 6 volte all’utente di inserire un numero, se �
 
  -----------------------------------------------Svolgimento Mail---------------------------------------------------
 
- creo mla variabile MailUtente che permette all'utente di inserire la propria mail, poi creo un array con delle mail, infine creo un if else per capire se la mail è presente nell array e quindi permettere l'accesso all'utente
+ creo la variabile MailUtente che permette all'utente di inserire la propria mail, poi creo un array con delle mail, infine creo un if else per capire se la mail è presente nell array e quindi permettere l'accesso all'utente
  usando come condizione NomeArray.includes(Mail.Utente).
 
+-----------------------------------------------------Pie Pari-------------------------------------------------------
 
+Creo un array vuoto poi creo un ciclo for che si ripete 6 volte, dentro al ciclo for inserisco la variabile per permettere all utente di inserire i numeri e verificano se siano pari o dispari con un if else se sono pari li inserisco nell'array, dopo il ciclo for stampo l'array.
